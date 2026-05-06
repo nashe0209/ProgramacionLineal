@@ -28,6 +28,9 @@ Esta herramienta interactiva permite resolver problemas de optimización mediant
     streamlit run app.py
     ```
 
+Link a app web
+https://programacion-lineal-nashe.streamlit.app/
+
 ## Créditos y Desarrollo
 *   **Desarrolladora:** Brenda Nashelly Gómez Reyes.
 *   **Institución:** Universidad del Istmo (UNISTMO), Campus Ixtepec.
