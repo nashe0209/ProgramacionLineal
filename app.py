@@ -712,14 +712,13 @@ css(modo_claro)
 st.markdown(
     """
     <div class="pl-header">
-      <div style="display:flex;align-items:center;gap:14px">
+      <div style="display:flex;align-items:center;gap:24px">
         <div style="background:linear-gradient(135deg,#7c3aed,#2563eb);border-radius:12px;padding:10px;font-size:1.35rem">📐</div>
         <div>
           <div class="pl-title">Programación Lineal</div>
           <div class="pl-sub">Universidad del Istmo · Investigación de Operaciones · Clave 8085</div>
         </div>
       </div>
-      <div class="pl-badge">v1.0 · Streamlit + Plotly</div>
     </div>
     """,
     unsafe_allow_html=True,
