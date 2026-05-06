@@ -719,7 +719,7 @@ st.markdown(
           <div class="pl-sub">Universidad del Istmo · Investigación de Operaciones · Clave 8085</div>
         </div>
       </div>
-      <div class="pl-badge">v4.0 · Streamlit + Plotly</div>
+      <div class="pl-badge">v1.0 · Streamlit + Plotly</div>
     </div>
     """,
     unsafe_allow_html=True,
